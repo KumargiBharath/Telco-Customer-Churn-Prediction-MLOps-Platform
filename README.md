@@ -106,8 +106,8 @@ The business is losing revenue due to customer attrition. Current retention stra
 
 ## 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/KumargiBharath/Telco-Customer-Churn-Prediction-MLOps-Platform.git
+cd Telco-Customer-Churn-Prediction-MLOps-Platform
 ```
 
 ## 2. Backend Setup (Python)
