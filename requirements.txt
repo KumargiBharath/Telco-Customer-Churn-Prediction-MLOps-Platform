@@ -1,0 +1,47 @@
+# Core Data Science
+pandas
+numpy
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+imbalanced-learn
+shap
+
+# Experiment Tracking
+mlflow
+
+# Data Validation
+great-expectations
+
+# API & Serving
+fastapi
+uvicorn
+pydantic
+python-multipart
+
+# Monitoring & Drift
+evidently
+
+# Configuration & Utilities
+pyyaml
+python-dotenv
+loguru
+joblib
+
+# Database & Data Formats
+sqlalchemy
+pyarrow
+
+# Notebooks
+jupyter
+
+# Testing & Quality
+pytest
+requests
+black

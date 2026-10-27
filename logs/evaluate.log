@@ -1,0 +1,39 @@
+2026-03-11 23:09:18.313 | INFO     | __main__:main:21 - Starting Model Evaluation & Explainability...
+2026-03-11 23:09:18.408 | INFO     | __main__:main:28 - Loaded model type: XGBClassifier
+2026-03-11 23:09:18.412 | INFO     | __main__:main:40 - Calculating SHAP values... (this may take a moment)
+2026-03-11 23:09:25.384 | SUCCESS  | __main__:main:58 - SHAP Summary Plot saved to reports/shap_summary.png
+2026-03-11 23:09:26.089 | SUCCESS  | __main__:main:67 - Feature Importance Plot saved to reports/feature_importance.png
+2026-03-11 23:09:26.089 | SUCCESS  | __main__:main:69 - Evaluation Pipeline Completed.
+2026-03-12 10:39:36.536 | INFO     | __main__:main:25 - Starting Model Evaluation & Explainability...
+2026-03-12 10:39:36.648 | INFO     | __main__:main:32 - Loaded model type: XGBClassifier
+2026-03-12 10:39:36.650 | INFO     | __main__:main:44 - Calculating SHAP values... (this may take a moment)
+2026-03-12 10:49:51.530 | INFO     | __main__:main:26 - Starting Model Evaluation & Explainability...
+2026-03-12 10:49:51.632 | INFO     | __main__:main:33 - Loaded model type: XGBClassifier
+2026-03-12 10:49:51.634 | INFO     | __main__:main:49 - Calculating SHAP values... (this may take a moment)
+2026-03-12 10:49:51.634 | INFO     | __main__:main:55 - Detected Tree-based model. Using shap.TreeExplainer.
+2026-03-12 10:53:00.469 | INFO     | __main__:main:27 - Starting Model Evaluation & Explainability...
+2026-03-12 10:53:00.550 | INFO     | __main__:main:34 - Loaded model type: XGBClassifier
+2026-03-12 10:53:00.552 | INFO     | __main__:main:47 - Calculating SHAP values... (this may take a moment)
+2026-03-12 10:53:00.554 | INFO     | __main__:main:53 - Detected Tree-based model. Using shap.TreeExplainer.
+2026-03-12 10:53:00.554 | INFO     | __main__:main:63 - Adjusted XGBoost base_score for SHAP compatibility.
+2026-03-12 10:57:49.106 | INFO     | __main__:main:27 - Starting Model Evaluation & Explainability...
+2026-03-12 10:57:49.185 | INFO     | __main__:main:34 - Loaded model type: XGBClassifier
+2026-03-12 10:57:49.187 | INFO     | __main__:main:47 - Calculating SHAP values... (this may take a moment)
+2026-03-12 10:57:49.189 | INFO     | __main__:main:57 - Using shap.Explainer (Model Agnostic) for XGBoost to ensure stability.
+2026-03-12 10:59:13.909 | SUCCESS  | __main__:main:92 - SHAP Summary Plot saved to reports/shap_summary.png
+2026-03-12 10:59:14.413 | SUCCESS  | __main__:main:101 - Feature Importance Plot saved to reports/feature_importance.png
+2026-03-12 10:59:14.413 | SUCCESS  | __main__:main:103 - Evaluation Pipeline Completed.
+2026-03-12 11:11:21.627 | INFO     | __main__:main:27 - Starting Model Evaluation & Explainability...
+2026-03-12 11:11:21.724 | INFO     | __main__:main:34 - Loaded model type: XGBClassifier
+2026-03-12 11:11:21.726 | INFO     | __main__:main:47 - Calculating SHAP values... (this may take a moment)
+2026-03-12 11:11:21.729 | INFO     | __main__:main:57 - Using shap.Explainer (Model Agnostic) for XGBoost to ensure stability.
+2026-03-12 11:12:42.435 | SUCCESS  | __main__:main:92 - SHAP Summary Plot saved to reports/shap_summary.png
+2026-03-12 11:12:42.975 | SUCCESS  | __main__:main:101 - Feature Importance Plot saved to reports/feature_importance.png
+2026-03-12 11:12:42.975 | SUCCESS  | __main__:main:103 - Evaluation Pipeline Completed.
+2026-03-12 11:59:28.925 | INFO     | __main__:main:27 - Starting Model Evaluation & Explainability...
+2026-03-12 11:59:29.062 | INFO     | __main__:main:34 - Loaded model type: XGBClassifier
+2026-03-12 11:59:29.064 | INFO     | __main__:main:47 - Calculating SHAP values... (this may take a moment)
+2026-03-12 11:59:29.066 | INFO     | __main__:main:57 - Using shap.Explainer (Model Agnostic) for XGBoost to ensure stability.
+2026-03-12 12:00:55.482 | SUCCESS  | __main__:main:92 - SHAP Summary Plot saved to reports/shap_summary.png
+2026-03-12 12:00:56.150 | SUCCESS  | __main__:main:101 - Feature Importance Plot saved to reports/feature_importance.png
+2026-03-12 12:00:56.150 | SUCCESS  | __main__:main:103 - Evaluation Pipeline Completed.

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/vulli/Desktop/Customer-churn-prediction/mlruns/154160452636651516/2cbc0f28cced4703b3213ad19bc99171/artifacts
+end_time: 1773292686783
+entry_point_name: ''
+experiment_id: '154160452636651516'
+lifecycle_stage: active
+run_id: 2cbc0f28cced4703b3213ad19bc99171
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773292677527
+status: 3
+tags: []
+user_id: vulli

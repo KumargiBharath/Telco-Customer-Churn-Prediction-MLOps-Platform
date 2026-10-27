@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Users/vulli/Desktop/Customer-churn-prediction/mlruns/783012102576180793/c3d48882ef164e60b7a1d33e379f0ad7/artifacts
+deleted_time: 1773297210523
+end_time: 1773297110348
+entry_point_name: ''
+experiment_id: '783012102576180793'
+lifecycle_stage: deleted
+run_id: c3d48882ef164e60b7a1d33e379f0ad7
+run_name: RandomForest_Opt
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773297098706
+status: 3
+tags: []
+user_id: vulli

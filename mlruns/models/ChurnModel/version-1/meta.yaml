@@ -1,0 +1,16 @@
+creation_timestamp: 1773297838756
+current_stage: Production
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1773297838853
+model_id: null
+name: ChurnModel
+run_id: 1bf1d7aa5f1a4b8cab5cbac3caa8914a
+run_link: null
+source: runs:/1bf1d7aa5f1a4b8cab5cbac3caa8914a/model
+status: READY
+status_message: null
+storage_location: runs:/1bf1d7aa5f1a4b8cab5cbac3caa8914a/model
+user_id: null
+version: 1
+workspace: default

@@ -1,0 +1,12 @@
+{
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+        "TotalCharges has 11 non-numeric values (likely empty strings). Cleaning required in Phase 6."
+    ],
+    "stats": {
+        "rows": 7043,
+        "columns": 21,
+        "missing_values_total": 0
+    }
+}

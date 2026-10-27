@@ -1,0 +1,47 @@
+2026-03-11 15:43:21.135 | INFO     | __main__:main:71 - Starting Data Ingestion Pipeline...
+2026-03-11 15:43:21.140 | INFO     | __main__:download_data:35 - Downloading data from: https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv
+2026-03-11 15:43:23.789 | SUCCESS  | __main__:download_data:49 - Data successfully downloaded to: data/raw/WA_Fn-UseC_-Telco-Customer-Churn.csv
+2026-03-11 15:43:23.891 | INFO     | __main__:read_data:61 - Data loaded successfully. Shape: (7043, 21)
+2026-03-11 15:43:23.891 | INFO     | __main__:main:86 - Columns found: ['customerID', 'gender', 'SeniorCitizen', 'Partner', 'Dependents', 'tenure', 'PhoneService', 'MultipleLines', 'InternetService', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies', 'Contract', 'PaperlessBilling', 'PaymentMethod', 'MonthlyCharges', 'TotalCharges', 'Churn']
+2026-03-11 15:43:23.893 | SUCCESS  | __main__:main:87 - Data Ingestion Pipeline Completed Successfully.
+2026-03-11 16:20:13.523 | INFO     | __main__:main:71 - Starting Data Ingestion Pipeline...
+2026-03-11 16:20:13.526 | INFO     | __main__:download_data:32 - Data file already exists at: data/raw/WA_Fn-UseC_-Telco-Customer-Churn.csv
+2026-03-11 16:20:13.569 | INFO     | __main__:read_data:61 - Data loaded successfully. Shape: (7043, 21)
+2026-03-11 16:20:13.569 | INFO     | __main__:main:86 - Columns found: ['customerID', 'gender', 'SeniorCitizen', 'Partner', 'Dependents', 'tenure', 'PhoneService', 'MultipleLines', 'InternetService', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies', 'Contract', 'PaperlessBilling', 'PaymentMethod', 'MonthlyCharges', 'TotalCharges', 'Churn']
+2026-03-11 16:20:13.569 | SUCCESS  | __main__:main:87 - Data Ingestion Pipeline Completed Successfully.
+2026-03-11 16:25:52.087 | INFO     | __main__:main:71 - Starting Data Ingestion Pipeline...
+2026-03-11 16:25:52.090 | INFO     | __main__:download_data:35 - Downloading data from: https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv
+2026-03-11 16:25:55.776 | SUCCESS  | __main__:download_data:49 - Data successfully downloaded to: data/raw/WA_Fn-UseC_-Telco-Customer-Churn.csv
+2026-03-11 16:25:55.845 | INFO     | __main__:read_data:61 - Data loaded successfully. Shape: (7043, 21)
+2026-03-11 16:25:55.845 | INFO     | __main__:main:86 - Columns found: ['customerID', 'gender', 'SeniorCitizen', 'Partner', 'Dependents', 'tenure', 'PhoneService', 'MultipleLines', 'InternetService', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies', 'Contract', 'PaperlessBilling', 'PaymentMethod', 'MonthlyCharges', 'TotalCharges', 'Churn']
+2026-03-11 16:25:55.845 | SUCCESS  | __main__:main:87 - Data Ingestion Pipeline Completed Successfully.
+2026-03-11 16:41:28.957 | INFO     | __main__:main:71 - Starting Data Ingestion Pipeline...
+2026-03-11 16:41:28.961 | INFO     | __main__:download_data:32 - Data file already exists at: data/raw/WA_Fn-UseC_-Telco-Customer-Churn.csv
+2026-03-11 16:41:29.006 | INFO     | __main__:read_data:61 - Data loaded successfully. Shape: (7043, 21)
+2026-03-11 16:41:29.006 | INFO     | __main__:main:86 - Columns found: ['customerID', 'gender', 'SeniorCitizen', 'Partner', 'Dependents', 'tenure', 'PhoneService', 'MultipleLines', 'InternetService', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies', 'Contract', 'PaperlessBilling', 'PaymentMethod', 'MonthlyCharges', 'TotalCharges', 'Churn']
+2026-03-11 16:41:29.006 | SUCCESS  | __main__:main:87 - Data Ingestion Pipeline Completed Successfully.
+2026-03-11 16:43:14.839 | INFO     | __main__:main:71 - Starting Data Ingestion Pipeline...
+2026-03-11 16:43:14.841 | INFO     | __main__:download_data:32 - Data file already exists at: data/raw/WA_Fn-UseC_-Telco-Customer-Churn.csv
+2026-03-11 16:43:14.890 | INFO     | __main__:read_data:61 - Data loaded successfully. Shape: (7043, 21)
+2026-03-11 16:43:14.890 | INFO     | __main__:main:86 - Columns found: ['customerID', 'gender', 'SeniorCitizen', 'Partner', 'Dependents', 'tenure', 'PhoneService', 'MultipleLines', 'InternetService', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies', 'Contract', 'PaperlessBilling', 'PaymentMethod', 'MonthlyCharges', 'TotalCharges', 'Churn']
+2026-03-11 16:43:14.890 | SUCCESS  | __main__:main:87 - Data Ingestion Pipeline Completed Successfully.
+2026-03-12 10:35:33.492 | INFO     | __main__:main:72 - Starting Data Ingestion Pipeline...
+2026-03-12 10:35:33.517 | INFO     | __main__:download_data:33 - Data file already exists at: data/raw/WA_Fn-UseC_-Telco-Customer-Churn.csv
+2026-03-12 10:35:33.579 | INFO     | __main__:read_data:62 - Data loaded successfully. Shape: (7043, 21)
+2026-03-12 10:35:33.579 | INFO     | __main__:main:87 - Columns found: ['customerID', 'gender', 'SeniorCitizen', 'Partner', 'Dependents', 'tenure', 'PhoneService', 'MultipleLines', 'InternetService', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies', 'Contract', 'PaperlessBilling', 'PaymentMethod', 'MonthlyCharges', 'TotalCharges', 'Churn']
+2026-03-12 10:35:33.579 | SUCCESS  | __main__:main:88 - Data Ingestion Pipeline Completed Successfully.
+2026-03-12 10:45:46.744 | INFO     | __main__:main:72 - Starting Data Ingestion Pipeline...
+2026-03-12 10:45:46.747 | INFO     | __main__:download_data:33 - Data file already exists at: data/raw/WA_Fn-UseC_-Telco-Customer-Churn.csv
+2026-03-12 10:45:46.786 | INFO     | __main__:read_data:62 - Data loaded successfully. Shape: (7043, 21)
+2026-03-12 10:45:46.786 | INFO     | __main__:main:87 - Columns found: ['customerID', 'gender', 'SeniorCitizen', 'Partner', 'Dependents', 'tenure', 'PhoneService', 'MultipleLines', 'InternetService', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies', 'Contract', 'PaperlessBilling', 'PaymentMethod', 'MonthlyCharges', 'TotalCharges', 'Churn']
+2026-03-12 10:45:46.786 | SUCCESS  | __main__:main:88 - Data Ingestion Pipeline Completed Successfully.
+2026-03-12 11:07:48.486 | INFO     | __main__:main:72 - Starting Data Ingestion Pipeline...
+2026-03-12 11:07:48.490 | INFO     | __main__:download_data:33 - Data file already exists at: data/raw/WA_Fn-UseC_-Telco-Customer-Churn.csv
+2026-03-12 11:07:48.534 | INFO     | __main__:read_data:62 - Data loaded successfully. Shape: (7043, 21)
+2026-03-12 11:07:48.534 | INFO     | __main__:main:87 - Columns found: ['customerID', 'gender', 'SeniorCitizen', 'Partner', 'Dependents', 'tenure', 'PhoneService', 'MultipleLines', 'InternetService', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies', 'Contract', 'PaperlessBilling', 'PaymentMethod', 'MonthlyCharges', 'TotalCharges', 'Churn']
+2026-03-12 11:07:48.536 | SUCCESS  | __main__:main:88 - Data Ingestion Pipeline Completed Successfully.
+2026-03-12 11:56:14.429 | INFO     | __main__:main:72 - Starting Data Ingestion Pipeline...
+2026-03-12 11:56:14.437 | INFO     | __main__:download_data:33 - Data file already exists at: data/raw/WA_Fn-UseC_-Telco-Customer-Churn.csv
+2026-03-12 11:56:14.481 | INFO     | __main__:read_data:62 - Data loaded successfully. Shape: (7043, 21)
+2026-03-12 11:56:14.481 | INFO     | __main__:main:87 - Columns found: ['customerID', 'gender', 'SeniorCitizen', 'Partner', 'Dependents', 'tenure', 'PhoneService', 'MultipleLines', 'InternetService', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies', 'Contract', 'PaperlessBilling', 'PaymentMethod', 'MonthlyCharges', 'TotalCharges', 'Churn']
+2026-03-12 11:56:14.481 | SUCCESS  | __main__:main:88 - Data Ingestion Pipeline Completed Successfully.

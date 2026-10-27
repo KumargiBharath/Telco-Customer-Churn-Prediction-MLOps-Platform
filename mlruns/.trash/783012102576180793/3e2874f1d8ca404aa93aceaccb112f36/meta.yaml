@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Users/vulli/Desktop/Customer-churn-prediction/mlruns/783012102576180793/3e2874f1d8ca404aa93aceaccb112f36/artifacts
+deleted_time: 1773297210523
+end_time: 1773297121210
+entry_point_name: ''
+experiment_id: '783012102576180793'
+lifecycle_stage: deleted
+run_id: 3e2874f1d8ca404aa93aceaccb112f36
+run_name: XGBoost_Opt
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773297110364
+status: 3
+tags: []
+user_id: vulli

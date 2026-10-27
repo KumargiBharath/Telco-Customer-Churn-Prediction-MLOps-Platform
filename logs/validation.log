@@ -1,0 +1,42 @@
+2026-03-11 16:41:49.086 | INFO     | __main__:main:87 - Initializing Data Validation Pipeline...
+2026-03-11 16:41:49.135 | INFO     | __main__:main:96 - Loaded raw data for validation: (7043, 21)
+2026-03-11 16:41:49.135 | INFO     | __main__:validate_data:26 - Starting Data Validation...
+2026-03-11 16:41:49.181 | WARNING  | __main__:validate_data:74 - TotalCharges contains non-numeric data. Cleaning required.
+2026-03-11 16:41:49.181 | INFO     | __main__:validate_data:76 - Validation Finished. Status: PASSED
+2026-03-11 16:41:49.185 | INFO     | __main__:save_report:84 - Validation report saved to reports/validation_report.json
+2026-03-11 16:41:49.191 | SUCCESS  | __main__:main:108 - Data Validation Pipeline Completed Successfully.
+2026-03-11 16:43:19.720 | INFO     | __main__:main:87 - Initializing Data Validation Pipeline...
+2026-03-11 16:43:19.825 | INFO     | __main__:main:96 - Loaded raw data for validation: (7043, 21)
+2026-03-11 16:43:19.828 | INFO     | __main__:validate_data:26 - Starting Data Validation...
+2026-03-11 16:43:19.856 | WARNING  | __main__:validate_data:74 - TotalCharges contains non-numeric data. Cleaning required.
+2026-03-11 16:43:19.856 | INFO     | __main__:validate_data:76 - Validation Finished. Status: PASSED
+2026-03-11 16:43:19.861 | INFO     | __main__:save_report:84 - Validation report saved to reports/validation_report.json
+2026-03-11 16:43:19.861 | SUCCESS  | __main__:main:108 - Data Validation Pipeline Completed Successfully.
+2026-03-12 10:35:50.462 | INFO     | __main__:main:88 - Initializing Data Validation Pipeline...
+2026-03-12 10:35:50.507 | INFO     | __main__:main:97 - Loaded raw data for validation: (7043, 21)
+2026-03-12 10:35:50.507 | INFO     | __main__:validate_data:27 - Starting Data Validation...
+2026-03-12 10:35:50.557 | WARNING  | __main__:validate_data:75 - TotalCharges contains non-numeric data. Cleaning required.
+2026-03-12 10:35:50.557 | INFO     | __main__:validate_data:77 - Validation Finished. Status: PASSED
+2026-03-12 10:35:50.563 | INFO     | __main__:save_report:85 - Validation report saved to reports/validation_report.json
+2026-03-12 10:35:50.565 | SUCCESS  | __main__:main:109 - Data Validation Pipeline Completed Successfully.
+2026-03-12 10:46:22.303 | INFO     | __main__:main:88 - Initializing Data Validation Pipeline...
+2026-03-12 10:46:22.349 | INFO     | __main__:main:97 - Loaded raw data for validation: (7043, 21)
+2026-03-12 10:46:22.349 | INFO     | __main__:validate_data:27 - Starting Data Validation...
+2026-03-12 10:46:22.379 | WARNING  | __main__:validate_data:75 - TotalCharges contains non-numeric data. Cleaning required.
+2026-03-12 10:46:22.379 | INFO     | __main__:validate_data:77 - Validation Finished. Status: PASSED
+2026-03-12 10:46:22.385 | INFO     | __main__:save_report:85 - Validation report saved to reports/validation_report.json
+2026-03-12 10:46:22.387 | SUCCESS  | __main__:main:109 - Data Validation Pipeline Completed Successfully.
+2026-03-12 11:08:28.192 | INFO     | __main__:main:88 - Initializing Data Validation Pipeline...
+2026-03-12 11:08:28.238 | INFO     | __main__:main:97 - Loaded raw data for validation: (7043, 21)
+2026-03-12 11:08:28.238 | INFO     | __main__:validate_data:27 - Starting Data Validation...
+2026-03-12 11:08:28.271 | WARNING  | __main__:validate_data:75 - TotalCharges contains non-numeric data. Cleaning required.
+2026-03-12 11:08:28.271 | INFO     | __main__:validate_data:77 - Validation Finished. Status: PASSED
+2026-03-12 11:08:28.271 | INFO     | __main__:save_report:85 - Validation report saved to reports/validation_report.json
+2026-03-12 11:08:28.275 | SUCCESS  | __main__:main:109 - Data Validation Pipeline Completed Successfully.
+2026-03-12 11:56:50.559 | INFO     | __main__:main:88 - Initializing Data Validation Pipeline...
+2026-03-12 11:56:50.599 | INFO     | __main__:main:97 - Loaded raw data for validation: (7043, 21)
+2026-03-12 11:56:50.615 | INFO     | __main__:validate_data:27 - Starting Data Validation...
+2026-03-12 11:56:50.647 | WARNING  | __main__:validate_data:75 - TotalCharges contains non-numeric data. Cleaning required.
+2026-03-12 11:56:50.647 | INFO     | __main__:validate_data:77 - Validation Finished. Status: PASSED
+2026-03-12 11:56:50.652 | INFO     | __main__:save_report:85 - Validation report saved to reports/validation_report.json
+2026-03-12 11:56:50.652 | SUCCESS  | __main__:main:109 - Data Validation Pipeline Completed Successfully.

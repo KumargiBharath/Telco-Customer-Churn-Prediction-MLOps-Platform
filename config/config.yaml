@@ -1,0 +1,13 @@
+# config/config.yaml
+
+data:
+  source_url: "https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv"
+  raw_data_path: data/raw/WA_Fn-UseC_-Telco-Customer-Churn.csv
+  processed_data_path: data/processed/processed_data.csv
+  train_data_path: data/processed/train.csv
+  test_data_path: data/processed/test.csv
+
+model:
+  test_size: 0.2
+  random_state: 42
+  target_column: Churn

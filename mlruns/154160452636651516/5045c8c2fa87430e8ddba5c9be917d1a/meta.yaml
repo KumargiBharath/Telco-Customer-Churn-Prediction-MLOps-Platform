@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/vulli/Desktop/Customer-churn-prediction/mlruns/154160452636651516/5045c8c2fa87430e8ddba5c9be917d1a/artifacts
+end_time: 1773296882122
+entry_point_name: ''
+experiment_id: '154160452636651516'
+lifecycle_stage: active
+run_id: 5045c8c2fa87430e8ddba5c9be917d1a
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773296871294
+status: 3
+tags: []
+user_id: vulli

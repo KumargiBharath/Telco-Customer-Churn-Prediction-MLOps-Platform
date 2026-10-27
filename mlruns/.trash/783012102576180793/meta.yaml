@@ -1,0 +1,8 @@
+artifact_location: file:C:/Users/vulli/Desktop/Customer-churn-prediction/mlruns/783012102576180793
+creation_time: 1773250068713
+experiment_id: '783012102576180793'
+last_update_time: 1773297210523
+lifecycle_stage: deleted
+name: churn_prediction_v1
+tags: {}
+workspace: default

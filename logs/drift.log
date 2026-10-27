@@ -1,0 +1,24 @@
+2026-03-12 00:29:23.040 | INFO     | __main__:main:26 - Starting Drift Monitoring Pipeline...
+2026-03-12 00:29:23.106 | INFO     | __main__:main:33 - Loaded raw data: (7043, 21)
+2026-03-12 00:29:23.124 | INFO     | __main__:main:47 - Reference Data Shape: (3522, 20)
+2026-03-12 00:29:23.127 | INFO     | __main__:main:48 - Current Data Shape: (3521, 20)
+2026-03-12 00:29:23.127 | INFO     | __main__:main:52 - Calculating Data Drift...
+2026-03-12 00:29:23.490 | INFO     | __main__:main:60 - Drift calculation complete.
+2026-03-12 00:29:25.869 | SUCCESS  | __main__:main:74 - Drift Report saved to reports/drift_report.html
+2026-03-12 00:29:25.869 | SUCCESS  | __main__:main:75 - Open the HTML file in your browser to view the dashboard.
+2026-03-12 11:21:56.953 | INFO     | __main__:main:27 - Starting Drift Monitoring Pipeline...
+2026-03-12 11:21:56.995 | INFO     | __main__:main:34 - Loaded raw data: (7043, 21)
+2026-03-12 11:21:57.001 | INFO     | __main__:main:48 - Reference Data Shape: (3522, 20)
+2026-03-12 11:21:57.016 | INFO     | __main__:main:49 - Current Data Shape: (3521, 20)
+2026-03-12 11:21:57.016 | INFO     | __main__:main:53 - Calculating Data Drift...
+2026-03-12 11:21:57.429 | INFO     | __main__:main:61 - Drift calculation complete.
+2026-03-12 11:22:00.062 | SUCCESS  | __main__:main:75 - Drift Report saved to reports/drift_report.html
+2026-03-12 11:22:00.063 | SUCCESS  | __main__:main:76 - Open the HTML file in your browser to view the dashboard.
+2026-03-12 12:06:52.272 | INFO     | __main__:main:27 - Starting Drift Monitoring Pipeline...
+2026-03-12 12:06:52.333 | INFO     | __main__:main:34 - Loaded raw data: (7043, 21)
+2026-03-12 12:06:52.353 | INFO     | __main__:main:48 - Reference Data Shape: (3522, 20)
+2026-03-12 12:06:52.353 | INFO     | __main__:main:49 - Current Data Shape: (3521, 20)
+2026-03-12 12:06:52.353 | INFO     | __main__:main:53 - Calculating Data Drift...
+2026-03-12 12:06:52.885 | INFO     | __main__:main:61 - Drift calculation complete.
+2026-03-12 12:06:54.659 | SUCCESS  | __main__:main:75 - Drift Report saved to reports/drift_report.html
+2026-03-12 12:06:54.659 | SUCCESS  | __main__:main:76 - Open the HTML file in your browser to view the dashboard.

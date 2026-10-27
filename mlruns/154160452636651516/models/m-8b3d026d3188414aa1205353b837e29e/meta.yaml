@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/vulli/Desktop/Customer-churn-prediction/mlruns/154160452636651516/models/m-8b3d026d3188414aa1205353b837e29e/artifacts
+creation_timestamp: 1773296892147
+experiment_id: '154160452636651516'
+last_updated_timestamp: 1773296900306
+model_id: m-8b3d026d3188414aa1205353b837e29e
+model_type: null
+name: model
+source_run_id: 414e42ee11394a4598e7f6df833cb03a
+status: 2
+status_message: null

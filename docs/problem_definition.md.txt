@@ -1,0 +1,28 @@
+1. Overview
+This document outlines the problem definition for the production-grade ML system designed to predict customer churn for a Telecommunications service provider.
+
+2. Problem Statement
+The business is losing revenue due to customer attrition. Current retention strategies are reactive and lack personalization. We need a system to predict churn probability for each customer in real-time.
+
+3. Objectives
+
+3.1 Business Objective
+Goal: Reduce monthly churn rate by identifying at-risk customers early.
+Action: Trigger targeted retention workflows (e.g., discounts, customer support outreach) for customers flagged as churn=1.
+KPI: Customer Lifetime Value (CLV) retention and Campaign ROI.
+
+3.2 Machine Learning Objective
+Task: Binary Classification (churn vs not churn).
+Optimization Target: Maximize Recall to capture maximum churners.
+Constraint: Maintain Precision above a usable threshold to avoid wasting marketing resources.
+Output: Prediction label (0/1) and Probability Score (0.0 to 1.0).
+
+4. Data Strategy
+Source: Customer Demographics, Services Signed Up, Account History.
+Target: Churn column.
+Frequency: Model retraining schedule (TBD based on drift analysis).
+
+5. Stakeholders
+Product: Define retention offers.
+Data Science: Build and maintain the model.
+Engineering: Deploy API and monitoring infrastructure.
