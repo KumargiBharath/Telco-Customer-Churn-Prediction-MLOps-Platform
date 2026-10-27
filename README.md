@@ -22,6 +22,7 @@ A full-stack, production-grade Machine Learning application designed to predict 
 7. [API Documentation](#api-documentation)
 8. [MLOps & Monitoring](#mlops)
 9. [Future Improvements](#future-improvements)
+
 ---
 
 ## 🎯 Problem Statement & Objectives
